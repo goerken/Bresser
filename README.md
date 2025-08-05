@@ -1,4 +1,7 @@
+
 # Bresser Weather Add-on für Home Assistant
+
+**Hinweis:** Dieses Add-on basiert auf [raphv/bresser-home-assistant](https://github.com/raphv/bresser-home-assistant).
 
 Dieses Add-on ermöglicht die Integration von Bresser Wetterstationen in Home Assistant. Es stellt einen kleinen Webserver bereit, der Wetterdaten von der Bresser-Station entgegennimmt und diese als REST-API für Home Assistant bereitstellt.
 
