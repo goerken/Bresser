@@ -1,0 +1,12 @@
+{
+  "name": "Bresser Weather Add-on",
+  "version": "1.0.0",
+  "slug": "bresser_weather",
+  "description": "Integration für Bresser Wetterstationen als Home Assistant Add-on.",
+  "startup": "application",
+  "boot": "auto",
+  "arch": ["amd64", "armv7", "aarch64"],
+  "options": {},
+  "schema": {},
+  "image": "" 
+}
