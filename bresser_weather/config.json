@@ -7,6 +7,9 @@
   "boot": "auto",
   "arch": ["amd64", "armv7", "aarch64"],
   "build": ".",
+  "ports": {
+    "8000/tcp": 8000
+  },
   "options": {},
   "schema": {}
 }
