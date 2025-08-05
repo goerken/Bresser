@@ -16,6 +16,13 @@ Dieses Add-on ermöglicht die Integration von Bresser Wetterstationen in Home As
 3. Klicke oben rechts auf die drei Punkte und wähle **Lokale Add-ons neu laden**.
 4. Das Add-on "Bresser Weather Add-on" sollte nun erscheinen. Installiere und starte es.
 
+
+## Beispiel-Konfiguration
+
+Die Datei `weatherstation-sensors.yaml` in diesem Repository ist ein Beispiel, wie du Sensoren für die Bresser Wetterstation in Home Assistant einbinden kannst.
+Sie basiert auf der Vorlage von [raphv/bresser-home-assistant/weatherstation-sensors.yaml](https://github.com/raphv/bresser-home-assistant/blob/main/weatherstation-sensors.yaml).
+Du kannst sie als Vorlage für deine eigene Konfiguration verwenden.
+
 ## Konfiguration in Home Assistant
 Füge in deiner `configuration.yaml` einen REST-Sensor hinzu, z.B.:
 
